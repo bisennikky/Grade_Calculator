@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(159, 187, 190);
+}
+.headline{
+    display: flex;
+    justify-content: center;
+    color:rgb(1, 7, 1);
+    font-size: 100px;
+    font-variant: small-caps;
+   
+
+}
+.screen-body-item{
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    background-color: rgb(83, 80, 80) ;
+    border-radius: 50px; 
+}
+.app-form-control{
+    margin: 10px;
+    color: black;
+
+}
+.app-form-button{
+    color: rgb(15, 14, 14);
+    cursor: pointer;
+    background-color: rgb(185, 34, 34);
+    font-size: 25px;
+    border-radius: 15px;
+    
+}
+.app-form-control{
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.app-form-group {
+    font-size: 30px;
+    color: rgb(10, 10, 10);
+    font-style: unset;
+   
+}
+.but{
+    padding-left: 40px;
+  
+}
+
+
